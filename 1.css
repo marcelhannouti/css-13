@@ -1,9 +1,9 @@
 div{
-    outline: 6px dotted green;
-    width: 150px;
-    height: 150px;
-    background-color: red;
+    outline: 6px dotted black;
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
 }
 div:hover{
-    outline: 4px dashed rgb(0, 0, 0);
+    outline: 4px dashed rebeccapurple;
 }
