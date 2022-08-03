@@ -1,0 +1,9 @@
+div{
+    outline: 6px dotted green;
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+div:hover{
+    outline: 4px dashed rgb(0, 0, 0);
+}
